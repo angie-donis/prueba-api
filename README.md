@@ -1,8 +1,7 @@
-# Shopping api 🛍️
+# Companies api
 This project was carried out for a test, it was developed using the NodeJS, and it also includes the following:
 1. NodeJS
 2. ExpressJS
-3. Vercel
 
 ## Table of contents  📌
 
@@ -15,20 +14,20 @@ This project was carried out for a test, it was developed using the NodeJS, and 
 ## Branches
 |Branch|URL  |
 |--|--|
-| Main | https://shopping-api-nine.vercel.app|
+| Main | 👇|
 | Development| 👇  |
 
 ## Prerequisites 🌱
 
- - [Node v18.16.0](https://nodejs.org/en/) 
+ - [Node v22.13.0](https://nodejs.org/en/) 
 
 ##  Installation 🤖
 
 ```bash
 
-> git clone https://github.com/JosueDonis/shopping-api
+> git clone https://github.com/angie-donis/prueba-api
 
-> cd shopping-api
+> cd prueba-api
 
 > npm install
 
@@ -48,8 +47,3 @@ This project was carried out for a test, it was developed using the NodeJS, and 
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-# prueba-api
-# prueba-api
-# prueba-api
-# prueba-api
-# prueba-api
